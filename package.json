@@ -1,0 +1,15 @@
+{
+  "name": "tc-identity-check",
+  "version": "1.0.0",
+  "description": "Identity checker of the citizens of the Republic of Turkey.",
+  "main": "lib.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.43.0",
+    "yup": "^0.32.11"
+  }
+}
