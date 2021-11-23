@@ -1,12 +1,12 @@
 {
   "name": "tc-identity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This library created for Turkish identity verification.",
   "main": "lib.ts",
   "author": "Kerim Tuncer <kerimtdev@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kerimtdev/tc-identity.git"
+    "url": "https://github.com/kerimtdev/tc-identity.git"
   },
   "homepage": "https://github.com/kerimtdev/tc-identity#readme",
   "license": "ISC",
