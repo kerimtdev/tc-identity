@@ -1,8 +1,8 @@
 {
   "name": "tc-identity",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This library created for Turkish identity verification.",
-  "main": "lib.ts",
+  "main": "index.js",
   "author": "Kerim Tuncer <kerimtdev@gmail.com>",
   "repository": {
     "type": "git",
