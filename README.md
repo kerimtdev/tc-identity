@@ -5,7 +5,7 @@ This library created for Turkish identity verification. [Government-provided web
 ## Installation 
 
 ```
-npm install tc-identity
+npm install tc-identity --save
 ```
 
 ## Usage

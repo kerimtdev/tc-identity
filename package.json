@@ -1,12 +1,14 @@
 {
-  "name": "tc-identity-check",
+  "name": "tc-identity",
   "version": "1.0.0",
-  "description": "Identity checker of the citizens of the Republic of Turkey.",
+  "description": "This library created for Turkish identity verification.",
   "main": "lib.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Kerim Tuncer <kerimtdev@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerimtdev/tc-identity.git"
   },
-  "author": "",
+  "homepage": "https://github.com/kerimtdev/tc-identity#readme",
   "license": "ISC",
   "dependencies": {
     "soap": "^0.43.0",
